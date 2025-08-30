@@ -1,0 +1,10 @@
+*.csv
+*.pptx
+*.xlsx
+*.docx
+*.zip
+*.pdf
+.DS_Store
+*.log
+venv/
+__pycache__/
